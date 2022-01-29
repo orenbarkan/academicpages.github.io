@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m an Asst. Proferssor of Computer Science at the Open University of Israel, and head of the OpenU AI Research group.
+I’m an Asst. Professor of Computer Science at the Open University of Israel, and head of the OpenU AI Research group.
 
 My research interests are mainly in:
 - Deep learning, machine learning and its applications in computer vision, natural language understanding, recommender systems, speech & audio processing, and financial forecasting.
