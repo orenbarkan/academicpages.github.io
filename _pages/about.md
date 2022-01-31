@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Oren Barkan"
+title: ""
 excerpt: ""
 author_profile: true
 redirect_from: 
